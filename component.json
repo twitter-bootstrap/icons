@@ -1,0 +1,24 @@
+{
+  "name": "icons",
+  "repo": "twitter-bootstrap/icons",
+  "description": "140 icons in sprite form, available in dark gray (default) and white, provided by Glyphicons.",
+  "version": "0.0.0",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "icons"
+  ],
+  "dependencies": {},
+  "development": {
+    "twitter-bootstrap/buttons": "*",
+    "twitter-bootstrap/dropdowns": "*"
+  },
+  "license": "MIT",
+  "styles": [
+    "icons.css"
+  ],
+  "images": [
+    "img/glyphicons-halflings.png",
+    "img/glyphicons-halflings-white.png"
+  ]
+}
