@@ -2,7 +2,7 @@
   "name": "icons",
   "repo": "twitter-bootstrap/icons",
   "description": "140 icons in sprite form, available in dark gray (default) and white, provided by Glyphicons.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [
     "twitter",
     "bootstrap",
